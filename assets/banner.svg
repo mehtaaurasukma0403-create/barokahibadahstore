@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#198754"/>
+      <stop offset="1" stop-color="#0d6efd"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <g opacity="0.18" fill="#ffffff">
+    <circle cx="140" cy="70" r="55"/>
+    <circle cx="220" cy="110" r="40"/>
+    <circle cx="1040" cy="80" r="70"/>
+    <circle cx="980" cy="140" r="45"/>
+  </g>
+  <g transform="translate(70,70)">
+    <rect x="0" y="0" width="560" height="180" rx="18" fill="#ffffff" opacity="0.14"/>
+    <text x="28" y="62" font-family="Arial, Helvetica, sans-serif" font-size="44" fill="#ffffff" font-weight="700">Barokah Ibadah Store</text>
+    <text x="28" y="106" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#ffffff" opacity="0.95">Toko alat ibadah Islam • Pencatatan transaksi penjualan</text>
+    <text x="28" y="144" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#ffffff" opacity="0.9">Bootstrap • Form • Table • Validasi JavaScript</text>
+  </g>
+  <g transform="translate(760,50)">
+    <rect x="0" y="0" width="380" height="220" rx="22" fill="#ffffff" opacity="0.16"/>
+    <path d="M190 35c-40 0-72 32-72 72 0 36 26 66 60 71-18-12-30-33-30-56 0-36 29-66 66-66 15 0 29 5 40 13-10-20-31-34-64-34z" fill="#ffffff"/>
+    <path d="M270 85l5 15h16l-13 9 5 15-13-9-13 9 5-15-13-9h16z" fill="#ffffff"/>
+    <text x="190" y="198" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#ffffff" opacity="0.9">Mudah • Rapi • Responsif</text>
+  </g>
+</svg>

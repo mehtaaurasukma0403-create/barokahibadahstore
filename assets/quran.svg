@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+      <rect width="600" height="400" fill="#f8f9fa"/>
+      <rect x="170" y="80" width="260" height="240" rx="16" fill="#198754" opacity="0.18"/>
+      <rect x="190" y="100" width="220" height="200" rx="12" fill="#0d6efd" opacity="0.16"/>
+      <path d="M210 140h180M210 175h180M210 210h180M210 245h120" stroke="#0d6efd" stroke-width="10" opacity="0.35" stroke-linecap="round"/>
+      <text x="300" y="350" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#212529">Al-Qur'an</text>
+    </svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+      <rect width="600" height="400" fill="#f8f9fa"/>
+      <path d="M300 70c-90 0-160 70-160 160 0 60 32 112 80 140h160c48-28 80-80 80-140 0-90-70-160-160-160z" fill="#0d6efd" opacity="0.16"/>
+      <path d="M300 110c-55 0-100 45-100 100 0 50 37 92 86 99h28c49-7 86-49 86-99 0-55-45-100-100-100z" fill="#198754" opacity="0.18"/>
+      <text x="300" y="350" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#212529">Mukena</text>
+    </svg>
