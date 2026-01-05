@@ -248,4 +248,15 @@
 
     render();
   }
+
+   // =========================
+   // 5) Logout
+   // =========================
+   window.logout = function () {
+     const ok = confirm("Apakah Anda yakin ingin logout?");
+      if (!ok) return;
+
+   sessionStorage.removeItem("barokahIbadah.user");
+   window.location.href = "login.html";
+   };
 })();
